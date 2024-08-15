@@ -1,1 +1,2 @@
-# 3-tier-application
+# SpringbootOpenshitMysqlDemo
+Demo project for Spring Boot MySql Openshift
